@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "357803277757",
+    "firebase_url": "https://thribby.firebaseio.com",
+    "project_id": "thribby",
+    "storage_bucket": "thribby.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357803277757:android:5f35df340d4a92ffbda6d4",
+        "android_client_info": {
+          "package_name": "com.thribby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357803277757-3l3kl8pnhg9d46bcgdcsplsb63db6fpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNb9ajnnGQmTVfY9usZ0s5mDUaPbCNTyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357803277757-3l3kl8pnhg9d46bcgdcsplsb63db6fpf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357803277757-efr8uenjvua2u6d9b3n05fb4hov5k7o1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thribby"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

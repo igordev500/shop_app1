@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Thribby</string>
+    <string name="facebook_app_id">1699645866841950</string>
+    <string name="fb_login_protocol_scheme">fb1699645866841950</string>
+</resources>

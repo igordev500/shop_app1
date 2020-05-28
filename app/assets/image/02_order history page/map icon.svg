@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.25" height="31.031" viewBox="0 0 23.25 31.031">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #88ca81;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="map_icon" data-name="map icon" class="cls-1" d="M593.93,839.374c-8.8-12.753-10.43-14.062-10.43-18.749a11.625,11.625,0,0,1,23.25,0c0,4.687-1.633,6-10.43,18.749a1.454,1.454,0,0,1-2.39,0h0Zm1.2-13.9a4.844,4.844,0,1,0-4.844-4.844A4.844,4.844,0,0,0,595.125,825.469Z" transform="translate(-583.5 -809)"/>
+</svg>
